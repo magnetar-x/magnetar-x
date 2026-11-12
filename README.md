@@ -5,7 +5,7 @@
 
 <!-- ================= DYNAMIC TYPING ANIMATION ================= -->
 <a href="https://github.com/magnetar-x">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=FBBF24&background=12072100&center=true&vCenter=true&multiline=false&width=850&height=45&lines=%3E+magnetar-x+%40+BIT+Mesra+%7C+Computer+Science+%26+Engineering;%3E+Linux+Kernel+Telemetry+(eBPF)+%E2%80%A2+Systems+Security+%E2%80%A2+Compilers;%3E+1st+Place+%40+DSS+Hackathon+2026+%7C+ACM+%26+SDS+Executive;%3E+High-Performance+Backends+%26+Interactive+3D+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=FBBF24&background=12072100&center=true&vCenter=true&multiline=false&width=850&height=45&lines=%3E+magnetar-x+%40+BIT+Mesra+%7C+Computer+Science+%26+Engineering;%3E+Linux+Kernel+Telemetry+(eBPF)+%E2%80%A2+Systems+Security+%E2%80%A2+Compilers;%3E+High-Performance+Backends+%26+Interactive+3D+Web+Experiences" alt="Typing SVG" />
 </a>
 
 <br/>
