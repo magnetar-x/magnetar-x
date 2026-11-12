@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ================= ANIMATED HEADER BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f051d,45:4c1d95,100:f59e0b&height=230&section=header&text=AADITYA%20SHARMA&fontSize=56&fontColor=fbbf24&fontAlignY=35&desc=%E2%9A%A1%20Systems%20%26%20Kernel%20Engineering%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Full-Stack%20Architecture%20%E2%9A%A1&descSize=18&descColor=f3e8ff&descAlignY=58&animation=fadeIn" width="100%" alt="Header Banner" />
+<!-- ================= ANIMATED HEADER BANNER (FIXED 2-STOP GRADIENT & XML SAFE) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f051d,100:6b21a8&height=220&section=header&text=AADITYA%20SHARMA&fontSize=54&fontColor=fbbf24&fontAlignY=38&desc=Systems%20and%20Kernel%20Engineering%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Architecture&descSize=17&descColor=f3e8ff&descAlignY=60&animation=fadeIn" width="100%" alt="Header Banner" />
 
-<!-- ================= DYNAMIC TYPING ANIMATION ================= -->
+<!-- ================= DYNAMIC TYPING ANIMATION (XML SAFE) ================= -->
 <a href="https://github.com/magnetar-x">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=FBBF24&background=12072100&center=true&vCenter=true&multiline=false&width=850&height=45&lines=%3E+magnetar-x+%40+BIT+Mesra+%7C+Computer+Science+%26+Engineering;%3E+Linux+Kernel+Telemetry+(eBPF)+%E2%80%A2+Systems+Security+%E2%80%A2+Compilers;%3E+High-Performance+Backends+%26+Interactive+3D+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=FBBF24&background=12072100&center=true&vCenter=true&multiline=false&width=850&height=45&lines=magnetar-x+%40+BIT+Mesra+%7C+Computer+Science+and+Engineering;Linux+Kernel+Telemetry+(eBPF)+%7C+Systems+Security+%7C+Compilers;High-Performance+Backends+and+Interactive+3D+Web+Experiences" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -194,40 +194,36 @@ leadership:
 
 <div align="center">
 
-<!-- ================= GITHUB TROPHIES ================= -->
-<img src="https://github-profile-trophy.vercel.app/?username=magnetar-x&theme=dracula&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" width="98%" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<!-- ================= STATS & STREAK CARDS (DARK PURPLE & GOLD) ================= -->
+<!-- ================= STREAK STATS (OFFICIAL DEMOLAB HOST) ================= -->
 <a href="https://github.com/magnetar-x">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=magnetar-x&show_icons=true&bg_color=120721&title_color=fbbf24&text_color=f3e8ff&icon_color=f59e0b&border_color=6b21a8&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/magnetar-x">
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=magnetar-x&background=120721&border=6b21a8&stroke=4c1d95&ring=fbbf24&fire=f59e0b&currStreakNum=fbbf24&sideNums=fbbf24&currStreakLabel=f3e8ff&sideLabels=e9d5ff&dates=a855f7&border_radius=12" alt="GitHub Streak" />
+  <img height="185em" src="https://streak-stats.demolab.com/?user=magnetar-x&background=120721&border=6b21a8&stroke=4c1d95&ring=fbbf24&fire=f59e0b&currStreakNum=fbbf24&sideNums=fbbf24&currStreakLabel=f3e8ff&sideLabels=e9d5ff&dates=a855f7&border_radius=12" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- ================= TOP LANGUAGES & ACTIVITY GRAPH ================= -->
+<!-- ================= PROFILE SUMMARY CARDS (HIGH-AVAILABILITY ENDPOINTS) ================= -->
 <a href="https://github.com/magnetar-x">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnetar-x&layout=compact&langs_count=8&bg_color=120721&title_color=fbbf24&text_color=f3e8ff&border_color=6b21a8&border_radius=12" alt="Top Languages" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=magnetar-x&theme=2077" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/magnetar-x">
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=magnetar-x&theme=2077" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/magnetar-x">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=magnetar-x&bg_color=120721&color=fbbf24&line=a855f7&point=fbbf24&area=true&area_color=6b21a8&hide_border=false&border_color=6b21a8&radius=12" alt="Contribution Graph" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magnetar-x&theme=2077" alt="Contribution Graph" />
 </a>
 
+<!-- 
+UNCOMMENT THIS BLOCK ONCE YOU ADD .github/workflows/snake.yml AND RUN THE ACTION:
 <br/><br/>
-
-<!-- ================= COMMIT SNAKE ANIMATION ================= -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magnetar-x/magnetar-x/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magnetar-x/magnetar-x/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/magnetar-x/magnetar-x/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+-->
 
 </div>
 
@@ -243,8 +239,8 @@ leadership:
   </a>
 </p>
 
-<!-- ================= ANIMATED FOOTER WAVE ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,55:4c1d95,100:0f051d&height=120&section=footer" width="100%" alt="Footer Banner" />
+<!-- ================= ANIMATED FOOTER WAVE (FIXED 2-STOP GRADIENT) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b21a8,100:0f051d&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
 
