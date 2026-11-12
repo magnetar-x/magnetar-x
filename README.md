@@ -37,9 +37,9 @@ core_directives:
   - Full-Stack & 3D Web: FastAPI, WebSockets, React, Three.js / React Three Fiber (R3F), GSAP
   - Data & Automation: Python Pipelines, SQL, Power BI, n8n Workflow Automation
 
-leadership_and_milestones:
-  - 🏆 1st Place Winner — DSS Hackathon 2026 (BIT Mesra)
-  - ⚡ Executive Committee — ACM Student Chapter (Hack-A-Bit) & Society for Data Science (SDS)
+leadership:
+  - ⚡ Joint Secretary — ACM Student Chapter
+  - ⚡ Executive Committee — Society for Data Science
   - 🛡️ Executive Wing — National Service Scheme (NSS), BIT Mesra
 ```
 
